@@ -1,0 +1,9 @@
+D:\proj\demo\Winform\WindowsFormsAppFramework\WindowsFormsAppFramework\bin\Debug\WindowsFormsAppFramework.exe.config
+D:\proj\demo\Winform\WindowsFormsAppFramework\WindowsFormsAppFramework\bin\Debug\WindowsFormsAppFramework.exe
+D:\proj\demo\Winform\WindowsFormsAppFramework\WindowsFormsAppFramework\bin\Debug\WindowsFormsAppFramework.pdb
+D:\proj\demo\Winform\WindowsFormsAppFramework\WindowsFormsAppFramework\obj\Debug\WindowsFormsAppFramework.csproj.AssemblyReference.cache
+D:\proj\demo\Winform\WindowsFormsAppFramework\WindowsFormsAppFramework\obj\Debug\WindowsFormsAppFramework.Properties.Resources.resources
+D:\proj\demo\Winform\WindowsFormsAppFramework\WindowsFormsAppFramework\obj\Debug\WindowsFormsAppFramework.csproj.GenerateResource.cache
+D:\proj\demo\Winform\WindowsFormsAppFramework\WindowsFormsAppFramework\obj\Debug\WindowsFormsAppFramework.csproj.CoreCompileInputs.cache
+D:\proj\demo\Winform\WindowsFormsAppFramework\WindowsFormsAppFramework\obj\Debug\WindowsFormsAppFramework.exe
+D:\proj\demo\Winform\WindowsFormsAppFramework\WindowsFormsAppFramework\obj\Debug\WindowsFormsAppFramework.pdb
