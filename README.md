@@ -25,4 +25,4 @@ Markdown Image Path Converter 是一个 Windows 窗体应用程序，旨在帮�
 
 1. 下载源代码或克隆本项目：
    ```bash
-   git clone https://github.com/your-username/MarkdownImagePathReplacer.git
+   git clone https://github.com/BDsnake/MarkdownImagePathConverter.git
