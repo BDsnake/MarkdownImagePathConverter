@@ -98,8 +98,10 @@ namespace WindowsFormsAppFramework
 
             string content = File.ReadAllText(filePath);
 
-            string updatedContent = Regex.Replace(content, $@"\!\[img\]\({Regex.Escape(remotePath)}/(.+?)\)",
-                $"![img]({localPath}/$1)");
+            string updatedContent = Regex.Replace(content, $@"\!\[(.*?)\]\({Regex.Escape(remotePath)}/(.+?)\)",
+    $"![$1]({localPath}/$2)");
+
+
 
             File.WriteAllText(filePath, updatedContent);
             MessageBox.Show("图片路径已成功替换为本地相对路径！");
@@ -120,8 +122,9 @@ namespace WindowsFormsAppFramework
 
             string content = File.ReadAllText(filePath);
 
-            string updatedContent = Regex.Replace(content, $@"\!\[img\]\({Regex.Escape(localPath)}/(.+?)\)",
-                $"![img]({remotePath}/$1)");
+            string updatedContent = Regex.Replace(content, $@"\!\[(.*?)\]\({Regex.Escape(localPath)}/(.+?)\)",
+    $"![$1]({remotePath}/$2)");
+
 
             File.WriteAllText(filePath, updatedContent);
 
